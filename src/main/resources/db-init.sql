@@ -1,0 +1,1 @@
+CREATE TABLE SUSERS(USER_ID long primary key, USER_GUID varchar(50), USER_NAME varchar(50));
